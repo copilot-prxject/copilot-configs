@@ -1,7 +1,5 @@
 #pragma once
 
-#include <host/ble_uuid.h>
-
 #define GATT_SVC_OBD_MODULE                         0x5100
 #define GATT_CHR_ENGINE_SPEED                       0x5101
 #define GATT_CHR_FUEL_TANK_LEVEL                    0x5102

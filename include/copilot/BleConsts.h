@@ -12,11 +12,8 @@
 #define GATT_CHR_GPS_DATA_TIME                      0x5203
 
 #define GATT_SVC_CONTROL_MEASUREMENT_MODULE         0x5000
-#define GATT_CHR_CURRENT_MEASUREMENT_CONTROL        0x5001
-#define GATT_CHR_CURRENT_MEASUREMENT                0x5002
-#define GATT_CHR_VOLTAGE_MEASUREMENT_CONTROL        0x5003
-#define GATT_CHR_VOLTAGE_MEASUREMENT                0x5004
-#define GATT_CHR_PWM                                0x5005
-#define GATT_CHR_RELAY                              0x5006
-#define GATT_CHR_TEMPERATURE_CONTROL                0x5007
-#define GATT_CHR_TEMPERATURE                        0x5008
+#define GATT_CHR_CURRENT_MEASUREMENT                0x5001
+#define GATT_CHR_VOLTAGE_MEASUREMENT                0x5002
+#define GATT_CHR_PWM                                0x5003
+#define GATT_CHR_RELAY                              0x5004
+#define GATT_CHR_TEMPERATURE                        0x5006
